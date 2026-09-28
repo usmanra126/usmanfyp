@@ -1,2 +1,9 @@
-# usmanfyp
-here is my application that can make automate all online web base portalsa like social media etc
+# Student Record
+
+This is my simple GitHub assignment.
+
+## Student Information
+
+- Name: Faizan
+- Roll No: 31287
+- Course: Web Development
