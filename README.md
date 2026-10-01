@@ -6,4 +6,4 @@ This is my simple GitHub assignment.
 
 - Name: Faizan
 - Roll No: 31287
-- Course: Web Development
+- Course: Web Development and python
